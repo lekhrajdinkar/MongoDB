@@ -19,7 +19,7 @@ Company Name : MongoDB
 
 5. `No Schema`
 - looks little messy but its developer task to use it.
-![img](https://github.com/lekhrajdinkar/MongoDB/blob/master/NOTES/asset/2.PNG)
+![img](https://github.com/lekhrajdinkar/MongoDB/blob/master/NOTES/asset/3.PNG)
 
 ***
 ### MONGODB echoSystem
